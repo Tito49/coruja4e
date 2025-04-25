@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+
+section{
+    background-color: blue;
+    height: 85vh;
+    width: 45%;
+    margin-left: 27.5%;
+    margin-top: 7.5vh;
+    float: left;
+}
+
+#pfp{
+    border-radius: 100vh;
+    height: 20vh;
+    width: 25%;
+    margin-left: 35%;
+    margin-top: 12vh;
+}
